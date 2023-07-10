@@ -1,19 +1,17 @@
 ### Hey there 👋
 
-![]()
-
-
+![image](https://media.giphy.com/media/3ZZ8r1DGDsIt0VFxiR/giphy.gif)
 ## What's up 👋 I'm Harry McCardell
 
 - 🌍 I'm from South Jersey and currently live in Rochester, New York
-- 🎓 Recent grad from Rochester Institute of Technology: BS Game Design and Developmnent, Minor in Ad & PR
-- 🚀 My interests include video games, social media marketing, and videography! I also love hunting, cycling, and the great outdoors!
+- 🎓 Recent grad from Rochester Institute of Technology: BS Game Design and Developmnent, Minor in Advertising and Public Relations
+- 🚀 My interests include video games, social media marketing, and videography! I also love music, cycling, and the great outdoors!
 
 ### Work Experience
-- 📊 **Great Lakes Gaming** - Social Media Manager for Rochester Esports Startup
-- 💼 **University Arenas** - Brand Advancement Assistant for RIT Division 1 Hockey
-- 🏫 **The Untamed** - Videography Intern for Outdoors YouTube Channel
-- 🚀 **New Student Orientation** - New Student Orientation Supervisor 
+- 🎮 **Great Lakes Gaming** - Social Media Manager for Rochester Gaming Lounge Startup
+- 📣 **University Arenas** - Brand Advancement Assistant for RIT Division 1 Hockey
+- 🎥 **The Untamed** - Videography Intern for Outdoors YouTube Channel
+- 🐯 **New Student Orientation** - New Student Orientation Supervisor 
 
 ### Check Out My Projects
 - Visit my repositories [here](https://github.com/mccardellch?tab=repositories) or view them below.
