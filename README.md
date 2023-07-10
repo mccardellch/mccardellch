@@ -48,11 +48,11 @@
 [2]: https://www.linkedin.com/in/harry-mccardell/
 <br/>
 ## Latest Projects
-- ![Phylloworks](https://mccardellch.github.io/portfolio/web/Fireworks/)
-- ![Talis and The Towers]()
-- ![Skate Spots Web App]()
-- ![Dresden Duels]()
-- ![Whitetail Deer Visualization]()
+- [**Phylloworks** - Interactive web application utilizing phyllotaxis and the Canvas API to create elaborate fireworks.](https://github.com/mccardellch/portfolio/tree/master/web/Fireworks)
+- [**Talis and The Towers** - As a powerful wizard, clear a path and move the object to the goal. 2D Unity game made with C#](https://github.com/mccardellch/talis-towers-public)
+- [**Skate Spots Web App** - Web application idea that allows users to search, locate and skate using Mapbox API](https://github.com/mccardellch/portfolio/tree/master/web/Skatespots)
+- [**Dresden Duels** - Fight with friend or foe in this 2D combat game created with Unity and C#](https://github.com/mccardellch/dresden-duels-public/tree/main)
+- [**Whitetail Deer Visualization** - A study on whitetail deer using a game trail camera data and graphing with d3 and Observable](https://observablehq.com/@mccardellch/when-are-whitetail-deer-most-active)
 
 <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="300"/><img src="https://media.giphy.com/media/oziNormWuA6JrnbzY8/giphy.gif" width="300"/><img src="https://media.giphy.com/media/1mssFONYwmBlJy1DAv/giphy.gif" width="225"/>
 
