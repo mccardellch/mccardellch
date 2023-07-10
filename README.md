@@ -24,10 +24,10 @@
 ![HTML](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![CSS](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
-![Excel](https://img.shields.io/badge/Tools-Unity-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![Unity](https://img.shields.io/badge/Tools-Unity_3D-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![Photoshop](https://img.shields.io/badge/Tools-Adobe_Photoshop-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![Premiere Pro](https://img.shields.io/badge/Tools-Adobe_Premiere_Pro-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![Excel](https://img.shields.io/badge/Tools-Unity-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blue)
+![Unity](https://img.shields.io/badge/Tools-Unity_3D-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blue)
+![Photoshop](https://img.shields.io/badge/Tools-Adobe_Photoshop-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blue)
+![Premiere Pro](https://img.shields.io/badge/Tools-Adobe_Premiere_Pro-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blue)
 
 ### Connect with Me
 - 📫 Email: mccardellhar@gmail.com
