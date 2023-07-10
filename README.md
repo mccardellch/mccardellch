@@ -1,6 +1,7 @@
 ### Hey there 👋
 
-![image](https://media.giphy.com/media/3ZZ8r1DGDsIt0VFxiR/giphy.gif)
+![](https://media.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif)
+
 ## What's up 👋 I'm Harry McCardell
 
 - 🌍 I'm from South Jersey and currently live in Rochester, New York
@@ -26,6 +27,7 @@
 ![Excel](https://img.shields.io/badge/Tools-Unity-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![Unity](https://img.shields.io/badge/Tools-Unity_3D-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![Photoshop](https://img.shields.io/badge/Tools-Adobe_Photoshop-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![Premiere Pro](https://img.shields.io/badge/Tools-Adobe_Premiere_Pro-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 ### Connect with Me
 - 📫 Email: mccardellhar@gmail.com
@@ -46,9 +48,13 @@
 [2]: https://www.linkedin.com/in/harry-mccardell/
 <br/>
 ## Latest Projects
+- ![Phylloworks](https://mccardellch.github.io/portfolio/web/Fireworks/)
+- ![Talis and The Towers]()
+- ![Skate Spots Web App]()
+- ![Dresden Duels]()
+- ![Whitetail Deer Visualization]()
 
-
-![]() ![]() ![]()
+<img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="300"/><img src="https://media.giphy.com/media/oziNormWuA6JrnbzY8/giphy.gif" width="300"/><img src="https://media.giphy.com/media/1mssFONYwmBlJy1DAv/giphy.gif" width="225"/>
 
 <!--
 **mccardellch/mccardellch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
