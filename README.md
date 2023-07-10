@@ -43,17 +43,13 @@
 
 <!-- Links to your social media accounts -->
 
-[1]: https://twitter.com/isaacmcsorley
-[2]: https://www.linkedin.com/in/isaac-mcsorley-64640a186/
+[1]: https://twitter.com/harry-mccardell
+[2]: https://www.linkedin.com/in/harry-mccardell/
 <br/>
 ## Latest Projects
-- [Microsoft Access Database I built for the University of Iowa College of Nursing](https://github.com/immcsorley/DatabaseProject)
-- [Do Elon Musk's tweets affect Tesla's stock price? ***R Programming Language / ggplot Project***](https://github.com/immcsorley/ElonProject)
-- [Data Mining Churn Rate Project. ***Data Mining / Machine Learning Project***](https://github.com/immcsorley/ChurnRateProject)
-- [Finding the most optimal flight out of Chicago O Hare Airport. ***SQL Project***](https://github.com/immcsorley/ChicagoO-Hare)
-- [Data Science Salaries Analysis and Infographic Using ***Tableau***](https://github.com/immcsorley/DataScienceSalaries)
 
-![](https://media2.giphy.com/media/xT9C25UNTwfZuk85WP/200.gif) ![](https://media4.giphy.com/media/3oKIPEqDGUULpEU0aQ/200.gif) ![](https://media1.giphy.com/media/IwAZ6dvvvaTtdI8SD5/200.gif)
+
+![](https://media2.giphy.com/media/xT9C25UNTwfZuk85WP/200.gif) ![]() ![]()
 
 <!--
 **mccardellch/mccardellch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
