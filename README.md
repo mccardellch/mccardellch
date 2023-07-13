@@ -17,22 +17,28 @@
 ### Check Out My Projects
 - Visit my repositories [here](https://github.com/mccardellch?tab=repositories) or view them below.
 
-### Technologies and Tools
+### Languages and Programs
 ![C#](https://img.shields.io/badge/Code-C_Sharp-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![C++](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![Javascript](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![HTML](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![CSS](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![SQL](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 ![Excel](https://img.shields.io/badge/Tools-Unity-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blue)
 ![Unity](https://img.shields.io/badge/Tools-Unity_3D-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blue)
+![Visual Studio](https://img.shields.io/badge/Tools-Visual_Studio-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blue)
+![Monogame](https://img.shields.io/badge/Tools-Monogame-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blue)
 ![Photoshop](https://img.shields.io/badge/Tools-Adobe_Photoshop-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blue)
 ![Premiere Pro](https://img.shields.io/badge/Tools-Adobe_Premiere_Pro-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blue)
 
-### Connect with Me
+### Reach Out!
 - 📫 Email: mccardellhar@gmail.com
-- 📮 Twitter: [![Twitter][1.2]][1]
-- 👔 LinkedIn: [![LinkedIn][2.2]][2]
+- 👔 LinkedIn: https://www.linkedin.com/in/harry-mccardell/ <!-- [![LinkedIn][2.2]][2] -->
+- 🗃️ Portfolio: https://mccardellch.github.io/portfolio/
+- 📮 Twitter: https://twitter.com/harry-mccardell <!-- [![Twitter][1.2]][1] -->
+- 📸 Instagram: https://www.instagram.com/harrymcc99/
 
 ### My Resume
 - 📄 View my [resume here](https://mccardellch.github.io/portfolio/resume.html)
