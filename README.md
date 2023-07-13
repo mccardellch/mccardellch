@@ -24,6 +24,7 @@
 ![HTML](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![CSS](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![PHP](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![SQL](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 ![Excel](https://img.shields.io/badge/Tools-Excel-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blue)
