@@ -26,7 +26,7 @@
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![SQL](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
-![Excel](https://img.shields.io/badge/Tools-Unity-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blue)
+![Excel](https://img.shields.io/badge/Tools-Excel-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blue)
 ![Unity](https://img.shields.io/badge/Tools-Unity_3D-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blue)
 ![Visual Studio](https://img.shields.io/badge/Tools-Visual_Studio-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blue)
 ![Monogame](https://img.shields.io/badge/Tools-Monogame-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blue)
