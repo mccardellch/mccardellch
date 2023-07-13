@@ -9,7 +9,7 @@
 - 🚀 My interests include video games, social media marketing, and videography! I also love music, cycling, and the great outdoors!
 
 ### Work Experience
-- 🎮 **Great Lakes Gaming** - Social Media Manager for Rochester Gaming Lounge Startup
+- 🎮 **Great Lakes Gaming** - Executive & Social Media Manager for Rochester Gaming Lounge Startup
 - 📣 **University Arenas** - Brand Advancement Assistant for RIT Division 1 Hockey
 - 🎥 **The Untamed** - Videography Intern for Outdoors YouTube Channel
 - 🐯 **New Student Orientation** - New Student Orientation Supervisor 
