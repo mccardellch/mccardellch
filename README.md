@@ -4,15 +4,15 @@
 
 ## What's up 👋 I'm Harry McCardell
 
-- 🌍 I'm from South Jersey and currently live in Rochester, New York
+- 🍎 I'm from South Jersey and currently moving to New York City 
 - 🎓 Recent grad from Rochester Institute of Technology: BS Game Design and Developmnent, Minor in Advertising and Public Relations
 - 🚀 My interests include video games, social media marketing, and videography! I also love music, cycling, and the great outdoors!
 
 ### Work Experience
 - 🎮 **Great Lakes Gaming** - Executive & Social Media Manager for Rochester Gaming Lounge Startup
 - 📣 **University Arenas** - Brand Advancement Assistant for RIT Division 1 Hockey
-- 🎥 **The Untamed** - Videography Intern for Outdoors YouTube Channel
-- 🐯 **New Student Orientation** - New Student Orientation Supervisor 
+- 🎥 **Freelance Video/Photographer** - Filming Outdoors based content for Youtube and social media
+- 🐯 **New Student Orientation** - New Student Orientation Supervisor at RIT
 
 ### Check Out My Projects
 - Visit my repositories [here](https://github.com/mccardellch?tab=repositories) or view them below.
